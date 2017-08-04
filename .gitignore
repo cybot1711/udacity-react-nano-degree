@@ -1,5 +1,6 @@
 # dependencies
 /React_Fundamentals/node_modules
+/React_Fundamentals/server/node_modules
 
 # testing
 /*/coverage
